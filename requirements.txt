@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+sklearn
+seaborn
+plotly
+geopandas
+pycountry
+ipywidgets
+cufflinks
+missingno
+geopandas
